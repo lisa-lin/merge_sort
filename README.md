@@ -1,2 +1,2 @@
 # merge_sort-
-Recursive implementation of merge sort. 
+A recursive implementation of merge sort in Ruby.
